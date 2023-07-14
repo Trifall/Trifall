@@ -1,4 +1,4 @@
-### College Student working on a BS in Computer Science
+### Computer Science Grad cheffing it up 🤌
 
 <!--
 **Trifall/Trifall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
