@@ -22,3 +22,13 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
 [![Jerren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trifall&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- 💼 View my [Portfolio Site!](https://trifall.com)
+- 📫 Contact -> Email me at [Jerren@trifall.com](mailto:Jerren@trifall.com)
+- 🔭 I’m currently working on:
+  - Redesigning my portfolio
+  - Messing around with Cloudflare Workers and the Edge runtime
+- 🌱 I’m currently learning:
+  - Framer-Motion and more CSS tricks
+  - Clean and modern UI design
+  - Continuing along the TypeScript journey
