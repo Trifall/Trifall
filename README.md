@@ -23,7 +23,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 [![Jerren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trifall&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💼 View my [Portfolio Site!](https://trifall.com)
+- 💼 View my [Portfolio Site](https://trifall.com) which has a list of all of my favorite projects that I have worked on
 - 📫 Contact -> Email me at [Jerren@trifall.com](mailto:Jerren@trifall.com)
 - 🔭 I’m currently working on:
   - Redesigning my portfolio
