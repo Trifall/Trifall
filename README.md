@@ -1,4 +1,4 @@
-### Computer Science Grad cheffing it up 🤌
+### [Computer Science Grad cheffing it up 🤌](https://trifall.com)
 
 <!--
 **Trifall/Trifall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
