@@ -32,7 +32,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 - 📫 Contact -> Email me at [Jerren@trifall.com](mailto:Jerren@trifall.com)
 - 🔭 I’m currently working on:
   - Redesigning my portfolio
-  - Messing around with AI models currently
+  - Messing around with AI models
 - 🌱 I’m currently learning:
   - AI SDK's
   - NextJS 14 new technology
