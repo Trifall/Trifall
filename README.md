@@ -43,9 +43,3 @@ Here are some ideas to get you started:
   - [Time Converter](https://timeconvert.xyz/)
   - [Odd One Out Game](https://https://oddone.trifall.com/)
 - 📫 Contact -> Email me at [Jerren@trifall.com](mailto:Jerren@trifall.com)
-- 🔭 I’m currently working on:
-  - Redesigning my portfolio
-  - Messing around with AI models
-- 🌱 I’m currently learning:
-  - AI SDK's
-  - NextJS 14 new technology
