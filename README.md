@@ -11,7 +11,7 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background-position: 0 0; opacity: 0.5; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/Trifall/Trifall/assets/13270623/14836d94-7f59-43e7-be3e-c23cb3b732f8');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; background-position: 0 0; opacity: 0.5; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/Trifall/Trifall/assets/13270623/14836d94-7f59-43e7-be3e-c23cb3b732f8');]{x0000}$}
 ```
 ### [Computer Science Grad cheffing it up 🤌](https://trifall.com)
 
