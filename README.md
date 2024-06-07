@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+!-->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trifall&repo=Source_Scrambler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-
--->
 
 [![Jerren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trifall&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,3 +33,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 - 🌱 I’m currently learning:
   - AI SDK's
   - NextJS 14 new technology
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Trifall/Trifall/assets/13270623/109bbfc9-a1a0-4025-b16b-b4a098430a4a');]{x0000}$}
