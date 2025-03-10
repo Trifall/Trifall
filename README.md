@@ -3,7 +3,7 @@
 - Check out some of my projects directly:
   - [Link Shortener](https://linker.trifall.com)
   - [AI Image Classifier](https://classify.lol)
+  - [Excalidraw File Sync](https://github.com/Trifall/excalidraw-file-sync)
   - [Social Media Site](https://social.trifall.com)
   - [Time Converter](https://timeconvert.xyz/)
-  - [Odd One Out Game](https://https://oddone.trifall.com/)
 - 📫 Contact -> Email me at [Jerren@trifall.com](mailto:Jerren@trifall.com)
