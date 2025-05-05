@@ -2,7 +2,7 @@
 - Working at [AlgoPeak](https://AlgoPeak.net) currently
 - Check out some of my projects directly:
   - [Link Shortener](https://linker.trifall.com)
-  - [AI Image Classifier](https://classify.lol)
+  - [AI Image Classifier](https://classify.trifall.com)
   - [Excalidraw File Sync](https://github.com/Trifall/excalidraw-file-sync)
   - [Social Media Site](https://social.trifall.com)
   - [Time Converter](https://timeconvert.xyz/)
