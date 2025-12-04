@@ -5,5 +5,5 @@
   - [AI Image Classifier](https://classify.trifall.com)
   - [Excalidraw File Sync](https://github.com/Trifall/excalidraw-file-sync)
   - [Social Media Site](https://social.trifall.com)
-  - [Time Converter](https://timeconvert.xyz/)
+  - [Time Converter](https://timeconvert.trifall.com/)
 - 📫 Contact -> Email me at [Jerren@trifall.com](mailto:Jerren@trifall.com)
