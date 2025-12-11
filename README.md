@@ -1,6 +1,7 @@
 - 💼 View my [Portfolio Site](https://trifall.com) which has a list of all of my favorite projects that I have worked on
 - Working at [AlgoPeak](https://AlgoPeak.net) currently
 - Check out some of my projects directly:
+  - [Cosmic](https://github.com/Trifall/cosmic) 
   - [Link Shortener](https://linker.trifall.com)
   - [AI Image Classifier](https://classify.trifall.com)
   - [Excalidraw File Sync](https://github.com/Trifall/excalidraw-file-sync)
